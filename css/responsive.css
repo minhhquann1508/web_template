@@ -1,0 +1,18 @@
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+    /* Các quy tắc CSS áp dụng cho màn hình từ 720px đến 1220px */
+    /* Ví dụ: */
+    .carousel-desc {
+        padding-left: 50px;
+    }
+    .footer-img {
+        width: 450px;
+    }
+}
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+    /* Các quy tắc CSS áp dụng cho màn hình từ 720px đến 1220px */
+    /* Ví dụ: */
+    .carousel-desc {
+        padding-left: 50px;
+    }
+    .
+}
